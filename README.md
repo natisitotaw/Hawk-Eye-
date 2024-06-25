@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="assets/logo.png" alt="Yazi logo" width="20%">
+  <img src="Hawk-Eye\logo.png" alt="Yazi logo" width="20%">
 </div>
 
 # Hawk-Eye

@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="Hawk-Eye\logo.png" alt=" " width="20%">
+  <img src="Hawk-Eye\logo.png" alt=" " width="30%">
 </div>
 
 # Hawk-Eye

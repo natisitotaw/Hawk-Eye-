@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="Hawk-Eye\logo.png" alt=" " width="25%">
+  <img src="Hawk-Eye\logo.png" alt=" " width="22%">
 </div>
 
 # Hawk-Eye
@@ -29,9 +29,9 @@ Below is the screenshots of the application running
 
 
 
-![Evolution over time](https://github.com/uutils/coreutils-tracking/blob/main/gnu-results.png?raw=true)
+![Application Screenshot](Hawk-Eye\screenshot1.png)
 
-
+![Application Screenshot](Hawk-Eye\screenshot2.png)
 
 
 

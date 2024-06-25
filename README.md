@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="Hawk-Eye\logo.png" alt="Yazi logo" width="20%">
+  <img src="Hawk-Eye\logo.png" alt=" " width="20%">
 </div>
 
 # Hawk-Eye
@@ -15,10 +15,7 @@ Hawk-Eye is a Prototype implementation of Violence Detection from CCTv Camera fe
 
 ## Goals
 
-Hawk-Eye aims to be simple security application that alert security personnel incase of Violence.
-
-
-
+Hawk-Eye aims to be a simple yet effective security application designed to enhance the safety and security of monitored areas by automatically detecting and alerting security personnel in case of violence
 
 
 

@@ -29,9 +29,9 @@ Below is the screenshots of the application running
 
 
 
-![Application Screenshot](Hawk-Eye\screenshot1.png)
+![Application Screenshot](https://github.com/natisitotaw/Hawk-Eye-/blob/main/Hawk-Eye/screenshot1.png)
 
-![Application Screenshot](Hawk-Eye\screenshot2.png)
+![Application Screenshot](https://github.com/natisitotaw/Hawk-Eye-/blob/main/Hawk-Eye/screenshot2.png)
 
 
 

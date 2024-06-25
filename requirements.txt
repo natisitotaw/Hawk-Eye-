@@ -1,0 +1,14 @@
+customtkinter==5.2.2
+matplotlib==3.9.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+pandas==2.2.2
+pygame==2.5.2
+Pygments==2.18.0
+pytorch-lightning==2.2.4
+pytorchvideo==0.1.5
+requests==2.32.1
+torch==2.1.2
+torchaudio==2.3.0+cu118
+torchmetrics==1.4.0.post0
+torchvision==0.16.2

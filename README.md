@@ -25,7 +25,7 @@ Hawk-Eye aims to be a simple yet effective security application designed to enha
 
 
 ## Screenshots
-Below is the screenshots of the application running
+Below is the screenshots of the application running.
 
 
 

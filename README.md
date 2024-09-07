@@ -15,9 +15,7 @@ Hawk-Eye is a Prototype implementation of Violence Detection from CCTv Camera fe
 
 ## Goals
 
-Hawk-Eye aims to be a simple yet effective security application designed to enhance the safety and security of monitored areas by automatically detecting and alerting security personnel in case of violence
-
-
+Hawk-Eye is a simple but effective security app that helps keep monitored areas safe by automatically spotting violent behavior and alerting security staff right away.
 
 ## Requirements
 
